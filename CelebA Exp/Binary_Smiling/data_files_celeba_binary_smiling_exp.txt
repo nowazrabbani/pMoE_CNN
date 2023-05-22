@@ -1,0 +1,6 @@
+Download the following files in the current directory:
+
+1. Training Data from CelebA w/ or w/o "smiling" attributes: https://1drv.ms/u/s!AstEYwuzV8F8rNssA4uaH9ZQoamvVw?e=MZ6OhE
+2. Training Label: https://1drv.ms/u/s!AstEYwuzV8F8rNsnxIpujJyViRYi-w?e=MnIqYe
+3. Test Data from CelebA w/ or w/o "smiling" attributes: https://1drv.ms/u/s!AstEYwuzV8F8rNsrbHAknAVtnHvcUQ?e=WpBhOA
+5. Test Label: https://1drv.ms/u/s!AstEYwuzV8F8rNsp3drPWbW8UXewWg?e=eQdZax
