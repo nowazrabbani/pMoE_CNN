@@ -1,0 +1,6 @@
+Download the following files in the current directory:
+
+1. Training Data from CelebA "smiling" w/ spurious correlation: https://1drv.ms/u/s!AstEYwuzV8F8rN4_JF7L1IZeCtJoUQ?e=1d2Og8
+2. Training Label: https://1drv.ms/u/s!AstEYwuzV8F8rN4-9HzVwftS3BT3jg?e=jWyxmi
+3. Test Data from CelebA w/ spurious correlation: https://1drv.ms/u/s!AstEYwuzV8F8rN43wJMA-OwUYWww1g?e=co2Dr4
+5. Test Label: https://1drv.ms/u/s!AstEYwuzV8F8rN45UNfOcYVZoa1OJA?e=Nps0U0
